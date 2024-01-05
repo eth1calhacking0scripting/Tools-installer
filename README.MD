@@ -8,8 +8,11 @@ You should wait like 3 minutes until installation is done depending on your inte
 
 
 Termux: yes
+
 Windows: soon
+
 Kali Linux: soon
+
 updates: soon
 
 
